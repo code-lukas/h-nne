@@ -1,6 +1,6 @@
 import pickle
 from dataclasses import dataclass
-from typing import Optional, List, Any, Union
+from typing import Optional, List, Any
 
 import numpy as np
 from sklearn import metrics
